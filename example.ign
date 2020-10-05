@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.1.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDEAzAiQackmU7A8I83MXzAGd7MO7HMg8GFdDgUbN9zFLvYqY9ih21YlL5yZzr17fJD0Q3H3UoFX8HmFAlUcrnpky0/qd7LM7ygr0y2LAtGQxAPTEdANgl0ZEtG7QExK6vs7dNWD+ThHUmnKlL8d0Ztjb2DmCcSRWMf++VLVvVfgMR32iOwRgt7NSUWxjhHKNbXYxK+KBLGp/HFltly9MZriVMc1D9cuZeusEilkq1RTNpkJDqS9FhVH2rNx8iZ0kdJmAs6nI7kenqsq+0mNidtEZy8q6YxbuvjsnUN+ocR7My05XQj4wYJ3CFry95a4rH854ZTkwS0G+ym2ER6mvjZ9sz3g9iyt8H5/jhm92woPpPwTAtcfSlK3OulDZbmzQusi0clqR94LmSRGWOGsRmIB3iMupsmunyJbVUJhIFF/crndEd4LJGVGoFQXi/h/9oOECpthu1TjLZedKFjYJ6dIClMoFLZpFDlGDKUJJ5NDyi6rYBnJVJEylmaRLGEc6tlE+IDzJVaj5yVYdagy0cOx+VPxzjnsuqFaQdDZ30CoC9ZSUjWksmDClfcdcWiIeeMEi9Ico5NJuYBal8vLYGg1y+TEiJ5s8AyZRDuUO8Bk0zp8B9zLfSjl7k/SvD8m+mRGVz4ycwi4aHWfg5sFV84Ap/OaDB4fMOU2hjk3F/XpQ== bob.henkel@gmail.com"
+        ]
+      }
+    ]
+  }
+}
